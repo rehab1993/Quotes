@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family:'playfair Display' , serif;
+}
+
+body{
+    background-color: brown;
+}
+
+.quot-box{
+    background-color: black;
+    width: 37.5rem;
+   
+
+}
+.quot-box .btn:hover{
+    background-color: brown;
+
+   
+   
+
+}
